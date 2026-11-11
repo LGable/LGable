@@ -138,7 +138,7 @@ Please read each repository's `DATA_POLICY.md` before interpreting a metric.
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/g-lynn-gable-msc-otr-l-lssgb-ncpt3-7505b317/)
+- [LinkedIn](https://www.linkedin.com/in/g-lynn-g-7505b3170/)
 - Email: `grejarra@gmail.com`
 
 ---
