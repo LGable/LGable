@@ -8,6 +8,12 @@ I work at the intersection of **healthcare service delivery, operational strateg
 
 I translate complex clinical, operational, and financial questions into practical systems: clearer workflows, measurable performance indicators, implementation tools, decision-ready reporting, and sustainable improvement plans.
 
+## Featured work
+
+- [Healthcare Operations Analytics](https://github.com/LGable/healthcare-operations-analytics/blob/main/projects/revenue_cycle_cashflow.md) — a synthetic cash-flow and revenue-cycle model that separates collections, capacity, labor exposure, and illustrative value.
+- [Lean Six Sigma A3 Demonstration](https://github.com/LGable/lean-six-sigma-case-studies/blob/main/projects/a3_patient_wait_times.md) — a simulated wait-time improvement example showing structured problem definition and analysis.
+- [MSc Dissertation Summary](https://github.com/LGable/rehabilitation-and-human-factors/blob/main/projects/reminiscence-therapy-dementia.md) — a public-safe summary of qualitative research on reminiscence therapy and occupational performance in dementia.
+
 ## What I bring
 
 - Healthcare operations and service-line improvement
@@ -35,15 +41,16 @@ I translate complex clinical, operational, and financial questions into practica
 - Support revenue-cycle and cash-flow analysis, documentation standards, staff oversight, and operational reporting.
 - Develop decision-support dashboards and analyses involving reimbursement, payroll exposure, satisfaction, productivity, and business operations.
 
-### Director of Rehabilitation — HealthPRO Heritage
+### Director of Rehabilitation | Operations & Program Management — HealthPRO Heritage
+**Dover, New Hampshire · April 2023–April 2024**
 
 - Led rehabilitation operations, capacity planning, clinical coordination, and performance improvement.
-- Reported historical improvements in treatment capacity and gross adjusted rehabilitation revenue; figures require owner verification and are not presented here as audited financial results.
+- Reported historical improvements in treatment capacity and gross adjusted rehabilitation revenue. These are historical professional outcomes, not audited financial results.
 
-### Psychiatric Practitioner and Quality Improvement Associate — Penn State Health
-**2025–2026**
+### Psychiatric Technician — Pennsylvania Psychiatric Institute
+**Pennsylvania · September 2025–April 2026**
 
-- Contributed to psychiatric care, quality improvement, documentation, safety, and clinical-process redesign.
+- Supported behavioral-health operations, quality improvement, documentation, safety, and clinical-process redesign.
 
 ### Senior Contract Occupational Therapist — American Medical Staffing
 **2024–2025**
@@ -55,7 +62,7 @@ I translate complex clinical, operational, and financial questions into practica
 
 - Supported government-funded vocational rehabilitation, return-to-work planning, caseload management, and service coordination.
 
-## Portfolio
+## Portfolio repositories
 
 This profile links to demonstrations and reusable tools rather than employer-owned records.
 
@@ -68,18 +75,9 @@ This profile links to demonstrations and reusable tools rather than employer-own
 | [Rehabilitation and Human Factors](https://github.com/LGable/rehabilitation-and-human-factors) | Return-to-work, care coordination, environmental safety, and human-factors demonstrations |
 | [Organizational Research and Methods](https://github.com/LGable/organizational-research-and-methods) | Public-safe research concepts and reproducible simulated methods |
 
-### Featured demonstrations
-
-- **Healthcare operations analytics:** synthetic reimbursement, staffing, capacity, productivity, and patient-experience datasets.
-- **Lean Six Sigma:** simulated A3 wait-time analysis, documentation reconciliation, safety improvement, and process-redesign case studies.
-- **Program implementation:** practical project-management templates for scope, governance, communication, risk, and handoff.
-- **Workforce and organizational effectiveness:** synthetic demonstrations of training transfer, consultation adoption, contract staffing, and service experience.
-- **Rehabilitation and human factors:** return-to-work, care coordination, environmental usability, and safety-focused methods.
-- **Organizational research:** a bounded workplace-support research concept with simulated analysis; not a completed or validated study.
-
 ## Reported professional impact
 
-The following figures come from the supplied career history and are presented as **reported historical outcomes**, not independently audited claims. Baselines, time periods, denominators, attribution, and publication permissions should be verified before external use.
+The following figures are selected historical outcomes from my professional experience. They are presented with their stated context and are not audited employer accounts or synthetic demonstrations.
 
 - Approximately **80% reduction** in restraint utilization associated with a psychiatric-unit de-escalation implementation.
 - Approximately **65% growth** in gross adjusted rehabilitation revenue and **47% increase** in daily treatment capacity in a reported rehabilitation setting.
@@ -109,7 +107,7 @@ The following figures come from the supplied career history and are presented as
 - Training in Kaizen, value-stream mapping, and FMEA
 - Professional learning in Power BI, Power Query, DAX, SQL, payroll controls, Workday, Salesforce, UKG/Kronos, Epic interoperability, change management, and organizational design
 
-> Credential issuing bodies, dates, identifiers, renewal status, and the final MBA status should be confirmed against current records before this profile is published.
+Credential names and status are presented as supplied in my professional records; issuing bodies, dates, identifiers, and renewal status may vary by credential.
 
 ## Tools and methods
 
@@ -129,7 +127,7 @@ The WAIAI work presented in this portfolio is a **proposed research concept with
 
 - Portfolio datasets are synthetic unless a repository explicitly states otherwise.
 - Synthetic results demonstrate analytical methods and do not establish effectiveness for a real client or employer.
-- Historical outcomes are based on supplied career materials and require owner verification.
+- Historical outcomes describe professional experience and are distinct from synthetic portfolio demonstrations.
 - Financial scenarios are illustrative and are not audited employer accounts or guaranteed savings.
 - This portfolio was assembled with AI assistance and freelancer support. Repository code and documentation should not be represented as entirely client-authored unless independently verified.
 - No employer-owned clinical records, patient information, student records, employee records, payroll files, private communications, or confidential dashboards belong in these public repositories.
@@ -138,9 +136,9 @@ Please read each repository's `DATA_POLICY.md` before interpreting a metric.
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/g-lynn-g-7505b3170/)
+- [LinkedIn](https://www.linkedin.com/in/g-lynn-g-7505b3170)
 - Email: `grejarra@gmail.com`
 
 ---
 
-This profile is a publication candidate and should receive final owner review before the GitHub profile repository is made public.
+This profile distinguishes professional experience from synthetic demonstrations, illustrative scenarios, and proposed research concepts.
