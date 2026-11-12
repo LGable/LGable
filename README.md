@@ -27,13 +27,13 @@ I translate complex clinical, operational, and financial questions into practica
 
 ## Selected professional experience
 
-### Occupational Therapist / Clinical Operations and Program Lead — Merakey
+### Occupational Therapist / Clinical Department Lead — Merakey
 **Pennsylvania · August 2026–Present**
 
-- Coordinate operations for a three-person occupational therapy team.
-- Support clinical programming, workload priorities, documentation quality, and cross-functional implementation.
-- Initiated voluntary improvement work involving documentation reconciliation, consultation follow-through, staff competency training, and functional programming.
-- Used practical coordination and reporting workflows, including Asana and Slack, to support departmental tracking.
+- Lead a three-person occupational therapy team and coordinate clinical operations.
+- Develop departmental resources and support quality-improvement initiatives.
+- Contribute to cross-functional operational projects involving documentation, consultation follow-through, staff competency, and functional programming.
+- Use Asana and Slack for operational coordination and tracking.
 
 ### Behavioral and Business Operations Consultant — Holistic Behavioral Health & Counseling
 **2026–Present**
@@ -47,10 +47,11 @@ I translate complex clinical, operational, and financial questions into practica
 - Led rehabilitation operations, capacity planning, clinical coordination, and performance improvement.
 - Reported historical improvements in treatment capacity and gross adjusted rehabilitation revenue. These are historical professional outcomes, not audited financial results.
 
-### Psychiatric Technician — Pennsylvania Psychiatric Institute
+### Psychiatric Technician — Pennsylvania Psychiatric Institute (Penn State Health)
 **Pennsylvania · September 2025–April 2026**
 
-- Supported behavioral-health operations, quality improvement, documentation, safety, and clinical-process redesign.
+- Supported behavioral-health operations, documentation, safety, and clinical-process redesign.
+- Contributed to CPI-informed de-escalation implementation and quality-improvement work on an adolescent/pediatric psychiatric unit.
 
 ### Senior Contract Occupational Therapist — American Medical Staffing
 **2024–2025**
@@ -77,18 +78,15 @@ This profile links to demonstrations and reusable tools rather than employer-own
 
 ## Reported professional impact
 
-The following figures are selected historical outcomes from my professional experience. They are presented with their stated context and are not audited employer accounts or synthetic demonstrations.
+The following is a documented historical observation from my professional experience. It is not an independently proven causal result, audited employer account, or synthetic demonstration.
 
-- Approximately **80% reduction** in restraint utilization associated with a psychiatric-unit de-escalation implementation.
-- Approximately **65% growth** in gross adjusted rehabilitation revenue and **47% increase** in daily treatment capacity in a reported rehabilitation setting.
-- Approximately **89% successful return-to-work outcomes** and **94% case-throughput performance** in government-funded vocational rehabilitation.
-- Approximately **87% reduction** in documentation-related errors through documentation standardization.
-- Contributions associated with fewer abscondment, violent, and functional/medical incidents in a high-security forensic psychiatric setting.
+- Restraint frequency decreased from approximately two events per day to two events per week across assigned shifts, observed over two months using restraint documentation, patient records, and nursing follow-up reports. This improvement was associated with my de-escalation practices; no sole causal claim is made.
+- Reported contributions included rehabilitation capacity and revenue improvement, return-to-work coordination, documentation standardization, patient safety, and operational reporting.
 - Operational dashboards and reporting workflows supporting utilization, service delivery, finance, caseload, quality, and business decisions.
 
 ## Education
 
-- **Master of Business Administration, Healthcare Administration** — Western Governors University, 2026
+- **Master of Business Administration, Healthcare Administration** — Western Governors University
 - **Master of Science, Occupational Therapy** — Brunel University London, United Kingdom, 2020
 - **Bachelor of Science, Behavioral Sciences** — York College of Pennsylvania, 2017
 - **Certificate, Nursing Assistance and Premedical Studies** — Harrisburg Area Community College, 2018
@@ -111,11 +109,12 @@ Credential names and status are presented as supplied in my professional records
 
 ## Tools and methods
 
-**Analytics:** Power BI · Power Query · DAX · Excel · Tableau · SQL · Python  
-**Operations:** capacity planning · workforce planning · utilization · productivity · revenue-cycle analysis · KPI/OKR reporting  
-**Improvement:** Lean Six Sigma · DMAIC · A3 · Kaizen · PDSA · root-cause analysis · FMEA · process mapping · control charts  
-**Delivery:** project charters · milestones · RACI · RAID · risk registers · stakeholder registers · implementation handoffs  
-**Platforms:** Microsoft Office · Asana · Slack · Workday · ADP · UKG/Kronos · Salesforce · Epic · Smartschool · Homecare Homebase · NetHealth
+**Professional experience:** Excel, Asana, Slack, Trello, Power BI dashboard consumption and analysis, operational reporting, capacity planning, workforce coordination, revenue-cycle analysis, and KPI reporting.  
+**Training and applied learning:** Power Query, DAX, SQL, Tableau, Workday, ADP, UKG/Kronos, Salesforce, Epic interoperability, and project-delivery methods.  
+**Portfolio demonstrations:** Python, Power BI, Power Query, DAX, SQL, Tableau, synthetic-data analysis, and reproducible reporting.  
+**Exploratory skills:** Technologies researched or practiced without sufficient evidence of independent professional proficiency are described only in their specific project context.  
+**Methods:** Lean Six Sigma, DMAIC, A3, Kaizen, PDSA, root-cause analysis, FMEA, process mapping, RACI, RAID, risk registers, and implementation handoffs.  
+**Context:** Power BI experience includes analyzing enterprise dashboards at Merakey; the portfolio does not represent that work as independently building production dashboards.
 
 ## Research and academic interests
 
@@ -129,7 +128,7 @@ The WAIAI work presented in this portfolio is a **proposed research concept with
 - Synthetic results demonstrate analytical methods and do not establish effectiveness for a real client or employer.
 - Historical outcomes describe professional experience and are distinct from synthetic portfolio demonstrations.
 - Financial scenarios are illustrative and are not audited employer accounts or guaranteed savings.
-- This portfolio was assembled with AI assistance and freelancer support. Repository code and documentation should not be represented as entirely client-authored unless independently verified.
+- I developed the professional experience, project concepts, research, methodological decisions, and substantive content. A freelancer assisted with GitHub organization, implementation, troubleshooting, and technical presentation. AI tools supported drafting, coding assistance, editing, analysis, and technical documentation where applicable. Neither the freelancer nor AI is the source of my employment achievements, historical results, or research findings.
 - No employer-owned clinical records, patient information, student records, employee records, payroll files, private communications, or confidential dashboards belong in these public repositories.
 
 Please read each repository's `DATA_POLICY.md` before interpreting a metric.
