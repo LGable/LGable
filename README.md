@@ -76,13 +76,13 @@ This profile links to demonstrations and reusable tools rather than employer-own
 | [Rehabilitation and Human Factors](https://github.com/LGable/rehabilitation-and-human-factors) | Return-to-work, care coordination, environmental safety, and human-factors demonstrations |
 | [Organizational Research and Methods](https://github.com/LGable/organizational-research-and-methods) | Public-safe research concepts and reproducible simulated methods |
 
-## Reported professional impact
+## Professional impact and contributions
 
-The following is a documented historical observation from my professional experience. It is not an independently proven causal result, audited employer account, or synthetic demonstration.
+**Documented observation:** Restraint frequency decreased from approximately two events per day to two events per week across my assigned shifts, observed over two months using restraint documentation, patient records, and nursing follow-up reports. This improvement was associated with my de-escalation practices; no sole causal claim is made.
 
-- Restraint frequency decreased from approximately two events per day to two events per week across assigned shifts, observed over two months using restraint documentation, patient records, and nursing follow-up reports. This improvement was associated with my de-escalation practices; no sole causal claim is made.
-- Reported contributions included rehabilitation capacity and revenue improvement, return-to-work coordination, documentation standardization, patient safety, and operational reporting.
-- Operational dashboards and reporting workflows supporting utilization, service delivery, finance, caseload, quality, and business decisions.
+**Self-reported professional outcomes:** Career materials describe improvements in rehabilitation capacity and revenue, return-to-work coordination, documentation standardization, patient safety, and reporting. Numerical claims are included only where the supporting context is documented in the relevant project page.
+
+**Professional contributions:** I have supported operational dashboards and reporting workflows involving utilization, service delivery, finance, caseload, quality, and business decisions.
 
 ## Education
 
@@ -94,7 +94,7 @@ The following is a documented historical observation from my professional experi
 ## Credentials and professional development
 
 - Occupational Therapist, OTR/L
-- Lean Six Sigma Black Belt, LSSBB / CLSSBB
+- Lean Six Sigma Black Belt training
 - Google Project Management Professional Certificate, 2025
 - Certified Dementia Practitioner, CDP
 - Certified Fall Prevention Specialist, CFPS
